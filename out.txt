@@ -1,1 +1,15 @@
-Hello World
+OBSERVATION SEQUENCE: 1 
+
+PRINTING DELTA TABLE: 
+0.1000000 0.1600000 0.0700000 
+
+MOST PROBABLE PATH: 
+y2  = 0.1600000
+
+
+PRINTING ALPHA TABLE: 
+0.1000000 0.1600000 0.0700000 
+
+LAST ROW SUM FOR ALPHA: 0.3300000
+
+---------------------------------------------------------------------------------------
